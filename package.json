@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/calumcb/cocktail-robot#readme",
   "dependencies": {
+    "app-root-path": "^3.0.0",
     "express": "^4.17.1"
   }
 }
