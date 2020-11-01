@@ -1,0 +1,30 @@
+{
+  "name": "cocktail-robot",
+  "version": "0.1.0",
+  "description": "A node.js web app to control an RPi's GPIO pins which work to control a cocktail robot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calumcb/cocktail-robot.git"
+  },
+  "keywords": [
+    "cocktail",
+    "alcohol",
+    "drunk",
+    "robot",
+    "fun",
+    "drink"
+  ],
+  "author": "calumcb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calumcb/cocktail-robot/issues"
+  },
+  "homepage": "https://github.com/calumcb/cocktail-robot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
